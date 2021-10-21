@@ -2784,6 +2784,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1304332355}
     m_Modifications:
+    - target: {fileID: 3279445528816725840, guid: ab2249d34e843b54cb60dd5af685d941, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8979de94ad943864a8a3c0c5ff620b01, type: 2}
     - target: {fileID: 3279445528816725841, guid: ab2249d34e843b54cb60dd5af685d941, type: 3}
       propertyPath: m_Name
       value: ShippingContainer (35)
@@ -2794,11 +2798,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3279445528816725854, guid: ab2249d34e843b54cb60dd5af685d941, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 293.01556
+      value: 293.3897
       objectReference: {fileID: 0}
     - target: {fileID: 3279445528816725854, guid: ab2249d34e843b54cb60dd5af685d941, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.95713
+      value: 16.957527
       objectReference: {fileID: 0}
     - target: {fileID: 3279445528816725854, guid: ab2249d34e843b54cb60dd5af685d941, type: 3}
       propertyPath: m_LocalPosition.z
