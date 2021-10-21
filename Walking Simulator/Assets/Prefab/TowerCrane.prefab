@@ -92,7 +92,6 @@ GameObject:
   - component: {fileID: 1014430787573375054}
   - component: {fileID: -9175207801167346116}
   - component: {fileID: -3476145646601459721}
-  - component: {fileID: 4280168243440045954}
   m_Layer: 0
   m_Name: TowerCrane
   m_TagString: Untagged
@@ -165,6 +164,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1270812509474984481}
   m_Mesh: {fileID: -3550560177102358075, guid: 48cb9f0b0501fc342bf9de7294c4bf00, type: 3}
+<<<<<<< HEAD
 --- !u!65 &4280168243440045954
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -178,6 +178,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 11.546568, y: 61.716187, z: 13.274265}
   m_Center: {x: 0, y: 28.210579, z: -0.018716812}
+=======
+>>>>>>> parent of f6b6ae3 (Added colliders to Cranes)
 --- !u!1 &8243092414095559935
 GameObject:
   m_ObjectHideFlags: 0
